@@ -1,0 +1,3 @@
+/home/polak27/Desktop/sorting_words/build/CMakeFiles/rebuild_cache.dir
+/home/polak27/Desktop/sorting_words/build/CMakeFiles/edit_cache.dir
+/home/polak27/Desktop/sorting_words/build/CMakeFiles/sorting_words.dir
