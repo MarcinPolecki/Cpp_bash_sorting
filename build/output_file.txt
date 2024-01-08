@@ -1,9 +1,0 @@
-bear
-bird
-cat
-dog
-elephant
-lion
-mouse
-pig
-tiger
